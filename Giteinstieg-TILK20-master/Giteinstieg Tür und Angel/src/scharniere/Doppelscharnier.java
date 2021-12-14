@@ -6,6 +6,7 @@ public class Doppelscharnier extends Scharnier {
 	public Doppelscharnier()  {
 		super();
 		anzahlSchrauben=10;
+		int anzahlLoecher=20;
 	}
 
 }
