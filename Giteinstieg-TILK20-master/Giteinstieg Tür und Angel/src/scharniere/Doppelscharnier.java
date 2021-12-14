@@ -1,9 +1,11 @@
 package scharniere;
 
-public class Doppelscharnier {
+public class Doppelscharnier extends Scharnier {
 
-	public Doppelscharnier() {
-		// TODO Auto-generated constructor stub
+	int anzahlSchrauben;
+	public Doppelscharnier()  {
+		super();
+		anzahlSchrauben=10;
 	}
 
 }
